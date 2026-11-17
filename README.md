@@ -47,7 +47,7 @@ https://karasindiedev.getly.page/
 ---
 
 ## 👤 Author & Links
-* **Developer:** karasindiedev ([YouTube](https://www.youtube.com/@karasindiedev) | [DTF](https://dtf.ru/id3538922))
-* **Get PRO Version:** [DubSyncCloneAE PRO on Getly](ВАША_ССЫЛКА_НА_GETLY)
+* **Developer:** karasindiedev ([YouTube](https://www.youtube.com/@karasindiedev) | [Discord](https://discord.gg/vt9bCgRgS))
+* **Get PRO Version:** [DubSyncCloneAE PRO on Getly](https://karasindiedev.getly.page/)
 
 ⭐ **If this script saved you hours of manual timeline work, please leave a Star on this repository!**
