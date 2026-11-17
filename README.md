@@ -5,8 +5,8 @@ Free Adobe After Effects script (.jsxbin) to automatically sync layer timings an
 **Automatically sync layer timings and montage edits across multiple compositions in Adobe After Effects.**  
 Developed by **karasindiedev**.
 
-Download Free
-Get PRO Version
+**Download Free / Get PRO Version**
+
 https://karasindiedev.getly.page/
 
 ---
